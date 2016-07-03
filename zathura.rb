@@ -4,9 +4,9 @@
 
 class Zathura < Formula
   homepage "https://pwmt.org/projects/zathura/"
-  url "https://pwmt.org/projects/zathura/download/zathura-0.3.4.tar.gz"
-  version "0.3.4"
-  sha1 "d8142ffdd9df8f04619cc823da07afb1f7694270"
+  url "https://pwmt.org/projects/zathura/download/zathura-0.3.6.tar.gz"
+  version "0.3.6"
+  sha1 "db5e76815fdfd0c2d6b5d5c16492995720268440"
 
   # depends_on "cmake" => :build
   depends_on :x11 # if your formula requires any X11/XQuartz components
